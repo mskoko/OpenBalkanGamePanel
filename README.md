@@ -29,13 +29,15 @@ Admin Login: Admin/demo
 
 ## TEAM
 
-- [R00tS3c](https://github.com/R00tS3c) __(CURRENT DEVELOPER)__
-- [KEVIA](https://github.com/Kevia) (mskoko.me@gmail.com) __(DEVELOPER)__
+- [R00tS3c](https://github.com/R00tS3c) __(DEVELOPER)__
+- [MSKOKO.ME](https://github.com/mskoko) (mskoko.me@gmail.com) __(DEVELOPER)__
 
 
 ## Jezici
 
 - српски
+- English
+- ??
 
 #### License
 
@@ -44,3 +46,5 @@ GPL-3.0
 ---
 
 > GitHub [@R00tS3c](https://github.com/R00tS3c) &nbsp;&middot;&nbsp;
+
+> Website [MSKOKO.ME](https://github.com/mskoko) (mskoko.me@gmail.com)
