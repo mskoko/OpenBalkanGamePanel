@@ -52,4 +52,5 @@ GPL-3.0
 
 #### Help
 
-> Priprema VPS za Potrebe Game Hostinga (CentOS 7) https://www.youtube.com/watch?v=l3OTZ0Cp61Y
+> Priprema VPS za Potrebe Game Hostinga (CentOS 7) 
+> https://www.youtube.com/watch?v=l3OTZ0Cp61Y
