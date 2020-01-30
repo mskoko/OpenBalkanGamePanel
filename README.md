@@ -48,3 +48,8 @@ GPL-3.0
 > GitHub [@R00tS3c](https://github.com/R00tS3c) &nbsp;&middot;&nbsp;
 
 > Website [MSKOKO.ME](https://github.com/mskoko) (mskoko.me@gmail.com)
+
+
+#### Help
+
+> Priprema VPS za Potrebe Game Hostinga (CentOS 7) https://www.youtube.com/watch?v=l3OTZ0Cp61Y
