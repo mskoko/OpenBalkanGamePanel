@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://obgp.github.io"><img src="https://i.imgur.com/unnxAPA.png" alt="Open Balkan GamePanel" width="200"></a>
@@ -13,6 +12,7 @@
   <a href="#">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmskoko%2FOpenBalkanGamePanel?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmskoko%2FOpenBalkanGamePanel.svg?type=shield"/></a>
   <a href="https://www.paypal.me/1microfix">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
@@ -49,6 +49,9 @@ GPL-3.0
 
 > Website [MSKOKO.ME](https://github.com/mskoko) (mskoko.me@gmail.com)
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmskoko%2FOpenBalkanGamePanel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmskoko%2FOpenBalkanGamePanel?ref=badge_large)
 
 #### Help
 
